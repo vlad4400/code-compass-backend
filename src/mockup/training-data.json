@@ -1,0 +1,1302 @@
+[
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "JavaScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "JavaScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Swift": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 1,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "JavaScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "JavaScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Swift": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "JavaScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 1,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Swift": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "JavaScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "JavaScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 1,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 1,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Swift": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Swift": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 1,
+      "small": 1,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "JavaScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Swift": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Swift": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 1,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 1,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "JavaScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Swift": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Swift": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Swift": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "JavaScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Python": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "TypeScript": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "output": {
+      "Swift": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Go": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 0
+    },
+    "output": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "input": {
+      "web": 0,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 1
+    },
+    "output": {
+      "C": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 1,
+      "system": 0,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "Java": 1
+    }
+  },
+  {
+    "input": {
+      "web": 1,
+      "mobile": 0,
+      "system": 1,
+      "small": 1,
+      "medium": 1,
+      "large": 0
+    },
+    "output": {
+      "C": 1
+    }
+  }
+]
